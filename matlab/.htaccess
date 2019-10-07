@@ -1,5 +1,0 @@
-ErrorDocument 404 http://www.math.iitb.ac.in/error/404.php
-ErrorDocument 403 http://www.math.iitb.ac.in/error/403.php
-Options -Indexes 
-
-
