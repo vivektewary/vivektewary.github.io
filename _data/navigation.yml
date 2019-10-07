@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: Curriculum Vitae
+  link: /CV.pdf
+- name: Preprints and Publications
+  link: /pubs.html
+- name: Activities
+  link: /activities.html
+- name: Miscellaneous
+  link: /misc.html
+- name: Blog
+  link: /blog.html
