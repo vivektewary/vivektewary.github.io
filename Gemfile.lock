@@ -63,7 +63,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-seo-tag
   jekyll-theme-minimal
 
 BUNDLED WITH
-   2.0.2
+   2.1.4

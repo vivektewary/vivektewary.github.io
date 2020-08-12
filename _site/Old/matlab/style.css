@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+}
+
+div.nav{
+	margin-left: 2%;
+	margin-right: 2%;
+	padding: 1px 0px;
+	width: 10%;
+	position: fixed;
+	height: 80%;
+}
+div.navhome{
+	margin-left: 2%;
+	margin-right: 2%;
+	padding: 1px 1px;
+	width: 10%;
+	height: 100%;
+}
+div.box{
+        margin-left:12%;
+        margin-right:5%;
+        padding:1px 16px;
+	min-height: 10%;
+	border-left-style: solid;
+	border-left-width: 1px;
+	line-height: 30px;
+}
+
+ul.nav {
+	list-style-type: none;
+	padding: 1px 1px;
+}
+
+li a.nav {
+    color: #000;
+}
+

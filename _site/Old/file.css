@@ -1,0 +1,7 @@
+.box {
+    position:fixed;
+    margin-top:-150px;  /* half of height */
+    top:50%;
+}
+
+
