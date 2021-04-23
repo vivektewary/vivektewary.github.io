@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
 
+url: "https://vivektewary.github.io"
+
 plugins:
   - jekyll-seo-tag
-
+  - jekyll-sitemap
+  
 author: Vivek Tewary
+
+
+
